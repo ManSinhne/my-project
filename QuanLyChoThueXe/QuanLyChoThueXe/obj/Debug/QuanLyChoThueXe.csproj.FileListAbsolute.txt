@@ -1,0 +1,56 @@
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe.config
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.pdb
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fGiaoDien.resources
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fLogin.resources
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.exe
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.pdb
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fKhachHang.resources
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAdmin.resources
+C:\Users\Admin\source\repos\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAccountProfile.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csprojAssemblyReference.cache
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAccountProfile.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAdmin.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fGiaoDien.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fKhachHang.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fLogin.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.Properties.Resources.resources
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.GenerateResource.cache
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.CoreCompileInputs.cache
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.exe
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.pdb
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe.config
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe
+E:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.pdb
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe.config
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.pdb
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csprojAssemblyReference.cache
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAccountProfile.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAdmin.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fGiaoDien.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fKhachHang.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fLogin.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.Properties.Resources.resources
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.GenerateResource.cache
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.CoreCompileInputs.cache
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.exe
+D:\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.pdb
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe.config
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.exe
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\bin\Debug\QuanLyChoThueXe.pdb
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.SuggestedBindingRedirects.cache
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.GUI.fAdmin.resources
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fGiaoDien.resources
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fKhachHang.resources
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.fLogin.resources
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.Properties.Resources.resources
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.GenerateResource.cache
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.exe
+C:\Users\FR\Desktop\QL Thuê Xe\QuanLyChoThueXe\QuanLyChoThueXe\obj\Debug\QuanLyChoThueXe.pdb
